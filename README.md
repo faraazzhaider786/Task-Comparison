@@ -1,5 +1,5 @@
 # Task-Comparison
-I do the simple task then i do the same task by AI  and then i find comparisons.
+I write code for the simple task , then i do the same task by AI  and then i find comparisons.
 
 ## My Work:
 <img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/26712683-04aa-46b3-90a2-f3c530b73763" />
