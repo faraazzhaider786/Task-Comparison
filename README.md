@@ -2,6 +2,8 @@
 I do the simple task then i do the same task by AI  and then i find comparisons.
 
 ## My Work:
+<img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/26712683-04aa-46b3-90a2-f3c530b73763" />
+
 
 
 ## Task Done By AI:
@@ -69,7 +71,8 @@ public class Task1 {
 ```
 
 ### Output:
-(Add your output here)
+<img width="975" height="507" alt="image" src="https://github.com/user-attachments/assets/42b7b01a-73d7-41b2-b3a5-7ba1b84d476e" />
+
 
 ## Differences between My Work and AI Work:
 
